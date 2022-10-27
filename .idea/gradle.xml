@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/01/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/01/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/02/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/02/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/08/demos" />
+        <option name="gradleJvm" value="corretto-1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/08/demos" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-1" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-2" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-3" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-4" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-5" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-5" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-6" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-6" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-7" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-7" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/generics-module-8" />
+        <option name="gradleJvm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/generics-module-8" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
